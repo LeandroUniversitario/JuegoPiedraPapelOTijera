@@ -1,0 +1,18 @@
+# Archivos compilados (Bytecode)
+*.class
+*.jar
+*.war
+
+# Carpetas de construcción
+bin/
+build/
+target/
+
+# Configuraciones de IDE (NetBeans, IntelliJ, Eclipse)
+.settings/
+.project
+.classpath
+.nb-common-props
+nbproject/
+.idea/
+*.iml
